@@ -8,11 +8,10 @@
 - ⚡ Foco em desenvolvimento Full Stack
 - 🧰 Atualmente estou procurando meu primeiro estágio como desenvolvedor
 
- ## BACK-END
+ ## LINGUAGENS
  <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 
 </div>
@@ -27,11 +26,12 @@
 
 ## Others
 <div>  
-<img style="margin: 10px" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 <img style="margin: 10px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img style="margin: 10px" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img style="margin: 10px" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="Static Badge" src="https://img.shields.io/badge/WordPress?style=for-the-badge&logo=wordpress&logoColor=white">
+
+
+
 </div>
  
 ## Outros meios de contato  
